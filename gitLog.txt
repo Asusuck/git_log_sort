@@ -1,0 +1,77 @@
+commit 4af8183f27b2ae258629ef1584f0bb90cedddddd
+Author: jack <jack@gmail.com>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-1 from Jack who is belong to Jacob
+
+commit 5a9d0955b024442c30eaa970d8d84bdd2cccccc
+Merge: ef7dfc8 23feeee
+Author: mark <mark@gmail.com>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-1 from Mark who is belong to Marvin team
+
+commit 4af8183f27b2ae258629ef1584f0bb90cebbbbbb
+Author: jenny <jenny>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-2 from Jenny who is belong to Jacob
+
+commit 5a9d0955b024442c30eaa970d8d84bdd2yyyyyy
+Merge: ef7dfc8 23feeee
+Author: Mellon <mellon111@yahoo.com.tw>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-2 from Mellon who is belong to Marvin team
+
+commit 4af8183f27b2ae258629ef1584f0byyyyyggbb
+Author: mark <mark@gmail.com>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-3 from Mark who is belong to Marvin team
+
+commit 5a9d0955b024442c30eaa970d8d84bd888888888
+Merge: ef7dfc8 23feeee
+Author: Peter <peter666@gmail.com>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-3 from Peter who is belong to Parker team
+
+commit 2228183f27b2ae258629e234484f0bb90cedddddd
+Author: Peter <peter666@gmail.com>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-4 from Peter who is belong to Parker
+
+commit 55550955b024442c30eaa970d8d84bdd2cccccc
+Merge: ef7dfc8 23feeee
+Author: plan wang <planb@gmail.com>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-4 from Plan Wang who is belong to Parker team
+
+commit 4af8183f27b2ae258629ef1584f0bb90cebbbbbb
+Author: Mellon <mellon111@yahoo.com.tw>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-5 from Mellon who is belong to Marvin
+
+commit 5a9d0955b024442c30eaa970d8d84bdd2yyyyyy
+Merge: ef7dfc8 23feeee
+Author: jack <jack@gmail.com>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-5 from Jack who is belong to Jacob team
+
+commit 4af8183f27b2ae258629ef1584f0byyyyyggbb
+Author: plan wang <planb@gmail.com>
+Date:   Mon Jul 2 14:13:54 2018 +0800
+
+    this commit-6 from Plan Wang who is belong to Parker team
+
+commit 444440955b024442c30eaa970d8d84bd888888888
+Merge: ef7dfc8 23feeee
+Author: Nini <ninitsai@gmail.com>
+Date:   Mon Jul 2 14:01:05 2018 +0800
+
+    this merge-commit-6 from Nini who is belong to Other teams
